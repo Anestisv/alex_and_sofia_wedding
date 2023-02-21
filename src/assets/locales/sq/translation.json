@@ -1,0 +1,137 @@
+{
+    "navbar": {
+        "pages": [
+            { "to": "/", "name": "FAQJA KRYESORE" },
+            { "to": "/details", "name": "DETAJET"},
+            { "to": "/rsvp", "name": "RSVP"},
+            { "to": "/photos", "name": "FOTO GALERIA"},
+            { "to": "/contact", "name": "KONTAKTONI"}
+        ],
+        "language_button": "SQ"
+    },
+    "sidebars": {
+        "it's_a_celebration": "ËSHTË NJË FESTIM"
+    },
+    "homepage": {
+        "welcome_text": "Mirë se erdhët në faqen e internetit\ntë dasmës sonë!",
+         "date": "Shtunë, 20.5.23",
+         "join_us": "BASHKOHU ME NE",
+         "where_and_when": "KU\n& KUR",
+         "address": "Ktima Dikaioulia\nKontratsi Zakinthou 61\nKoropi 194 00\nHellas",
+         "events": ["7:00 pm Pritja", "7:30 pm Ceremonia", "9:00 pm Festa"],
+         "see_full_details": "Shihni Detajet e Plota",
+         "please_confirm_your_attendance": "Ju lutem konfirmoni këtu",
+         "rsvp_now": "RSVP TANIM",
+         "ready_to_commit": "DO TE JESH ATJE?",
+         "pls": "JU LUTEM\n",
+         "rsvp": "RSVP",
+         "photo_gallery": "FOTO GALERIA",
+         "our_story": "HISTORIA\nJONË"
+    },
+    "details": {
+        "info_text": "Dasma jonë do të filloj në orën 19.00 më 20 Maj pranë: Ktima Dikaioulia. Këtu do të gjeni të gjitha detajet.",
+        "transportation": "TRANSPORTI",
+        "closest_airport_and_taxi": "Aeroporti më i afërt: Eleutherios Venizelos\nShërbimi taksi – doënload app: freenow",
+        "accomodation": "AKOMODIMI",
+        "accomodation_text": "Ka disa opsione në  booking.com rreth e rrotull destinacionit apo në Athinë.\n Jeni të lutur të na kontaktoni për çfarëdo lloj ndihme apo informacioni. Është kënaqësia jonë t’ju ndihmojmë.",
+        "schedule": "PROGRAMI",
+        "the_events_will_take_place": "Ky event do të zhvillohet tek",
+        "ktima_dikaioulia": "Ktima Dikaioulia",
+        "address": "Kontratsi Zakinthou 61, Koropi 19400, Hellas",
+        "events": [
+             {
+                "time": "7:00 pm Pritja",
+                "info": "Mbërritja e të ftuarve\nPije Freskuese\n*Shënim: Në vendodhje ka parkim falas"
+            },
+            {
+                "time": "7:30 pm Ceremonia",
+                "info": "Ceremonia e Celebrimit"
+            },
+            {
+                "time": "8:00 pm Kokteili",
+                "info": "Pijet e Mirëseardhjes dhe Aperitivët"
+            },
+            {
+                "time": "9:00 pm Festa",
+                "info": "Ushqim i shijshëm\nPije\nKoha për festë!"
+            }
+        ]
+    },
+    "photos": {
+        "intro_text": "Historia jonë e dashurisë filloi një ditë të shtune, më 19 Maj 2012 në Athinë.",
+        "story": [
+            "Sapo isha kthyer nga një udhëtim në Norvegji dhe po atë natë festoja ditëlindjen time, me disa miq në Greqi. Ishte pikërisht nata kur ndodhi magjia. Ne u takuam dhe çdo gjë tjetër ishte destinuar për të ndodhur! Ditë më vonë patëm takimin tonë të parë dhe nga ai moment ne thjesht ishim të pandarë.",
+            "Bashkë kaluam një verë të mrekullueshme, plot me kokteile, ushqim të mirë, gëzim dhe të qeshura pafund, deri sa unë i bëra të ditur që kisha vendosur të shpërngulesha në Norvegji.... Aleks pohoi që ai do të vinte me mua.",
+            "Në fillim mendova se po bënte shaka..., por fatmirësisht ishte e vërtetë! Tetë vite të paharrueshme, në një udhëtim në veri të Norvegjisë nën magjinë e Aurorës (dritave veriore). Aleks më propozoi dhe përgjigja ishte PO.",
+            "28.12.2021 Lindi Emily dhe tashmë jemi të kompletuar me një familje të vogël plot dashuri.",
+            "20.05.2023 (përvjetori i 11-të) Ne jemi shumë të lumtur t’ju ftojmë të festojmë dasmën tonë në këtë datë të veçantë. Mezi po presim për të festuar dashurinë tonë me ju."
+        ]
+    },
+    "contact": {
+        "contact": "KONTAKTONI",
+        "contact_text": "Mezi presim të festojmë me ju. Për çdo pyetje, ose për të na dhënë një këshillë, na kontaktoni!",
+        "contact_details": [
+            {
+                "name": "Alex",
+                "email": "Alex_liakos@hotmail.com",
+                "tel": "Viber/WhatsApp: 0047 91912227",
+                "facebook": "https://www.facebook.com/aliakos1",
+                "instagram": "https://www.instagram.com/alexlks9/"
+            },
+            {
+                "name": "Sofia",
+                "email": "Sofia_sel@hotmail.com",
+                "tel": "Viber: 004795170643",
+                "facebook": "https://www.facebook.com/sofia.sella.3",
+                "instagram": "https://www.instagram.com/sofia_sela/"
+            }
+        ]
+    },
+    "rsvp": {
+        "date": "Sht, 20 maj",
+        "ktima_dikaioulia": "Ktima Dikaioulia",
+        "names": "Alex & Sofia",
+         "please_confirm_your_attendance": "Ju lutem konfirmoni këtu",
+         "register_now": "Register Tani",
+         "time_and_location": "Ora & Vendodhja",
+         "full_date": "20 Maj 2023, 7:00 e pasdites",
+         "full_address": "Ktima Dikaioulia, Kontratsi Zakinthou 61, Koropi 19400, Hellas"
+    },
+    "dialog": {
+        "names": "Alex & Sofia",
+        "date": "May 20, 2023, 7:00 pm\nKtima Dikaioulia",
+        "add_your_details": "Shtoni të dhënat tuaja"
+    },
+    "form": {
+        "labels": {
+            "first_name": "Emri",
+            "last_name": "Mbiemri",
+            "mobile": "Numër telefoni"
+        },
+        "errors": {
+            "name_errors": {
+                "name_is_required": "Kërkohet emri",
+                "provide_valid_name": "Ju lutemi jepni një emër të vlefshëm"
+            },
+            "mobile_errors": {
+                "number_is_required": "Kërkohet numri",
+                "provide_valid_number": "Ju lutemi jepni një numër të vlefshëm",
+                "provide_valid_country_code": "Jep një kod të vlefshëm shteti"
+            },
+            "email_errors": {
+                "email_is_required": "Kërkohet email",
+                "provide_valid_email": "Ju lutemi jepni një email të vlefshëm"
+            }
+        },
+        "tooltip": {
+            "pick_country_code": "Zgjidhni kodin e shtetit"
+        }
+    },
+    "not_found": {
+        "sorry_text": "Na vjen keq, kjo faqe\n nuk ekziston",
+        "go_to_home_page": "SHKO NE FAQJA KRYESORE"
+    },
+    "questions": {
+        "questions_text": "PYETJE? <0>NA KONTAKTONI</0> <1>•</1> SHIHEMI ATJE!"
+    }
+}

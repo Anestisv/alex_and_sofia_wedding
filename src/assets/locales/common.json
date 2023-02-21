@@ -1,0 +1,33 @@
+{
+    "languages": {
+        "english": "ENGLISH",
+        "greek": "ΕΛΛΗΝΙΚΑ",
+        "albanian": "SHQIPTARE"
+    },
+    "save_the_date": "SAVE THE DATE",
+    "left_bar_date": "MAY 20, 2023",
+    "homepage": {
+        "alex": "ALEX",
+        "sofia": "SOFIA",
+        "and": "and",
+        "two_become_one": "Two become one",
+        "all_become_drunk": "All become drunk"
+    },
+    "details": {
+        "info": "INFO"
+    },
+    "form": {
+        "submit": "SUBMIT",
+        "email": "Email",
+        "placeholders": {
+            "your_name_here": "Your name ...",
+            "i_will_be_there": "I_will_be_there@gmail.com",
+            "xxx": "XXX XXX XXX"
+        }
+    },
+    "map": {
+        "directions_text": "Ktima Dikaioulia\n<0>Directions</0>"
+    },
+    "oups": "Oups!",
+    "footer": "© 2023 by koumbaroi"
+}

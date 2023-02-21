@@ -1,0 +1,138 @@
+{
+    "navbar": {
+        "pages": [
+            { "to": "/", "name": "HOME" },
+            { "to": "/details", "name": "DETAILS"},
+            { "to": "/rsvp", "name": "RSVP"},
+            { "to": "/photos", "name": "PHOTOS"},
+            { "to": "/contact", "name": "CONTACT"}
+        ],
+        "language_button": "EN"
+    },
+    "sidebars": {
+        "it's_a_celebration": "IT'S A CELEBRATION!"
+    },
+    "homepage": {
+        "welcome_text": "Welcome to our wedding website!\nWe can’t wait to celebrate our special day with you!",
+         "date": "Saturday, 20.5.23",
+         "join_us": "JOIN US",
+         "where_and_when": "WHERE\n& WHEN",
+         "address": "Ktima Dikaioulia\nKontratsi Zakinthou 61\nKoropi 194 00\nHellas",
+         "events": ["7:00 pm Reception", "7:30 pm Ceremony", "9:00 pm Celebration"],
+         "see_full_details": "See Full Details",
+         "please_confirm_your_attendance": "Please confirm your attendance",
+         "rsvp_now": "RSVP NOW",
+         "ready_to_commit": "READY TO COMMIT?",
+         "pls": "PLS\n",
+         "rsvp": "RSVP",
+         "photo_gallery": "PHOTO GALLERY",
+         "our_story": "OUR\nSTORY"
+    },
+    "details": {
+        "info_text": "Our wedding will begin at 7pm on May 20th at Ktima Dikaioulia. Here’s everything else you need to know.",
+        "transportation": "TRANSPORTATION",
+        "closest_airport_and_taxi": "Closest airport Eleutherios Venizelos\nTaxi services – download app: freenow",
+        "accomodation": "ACCOMODATION",
+        "accomodation_text": "There are several options on <0>booking.com</0> around the venue or all over Athens.\nPlease do not hesitate to contact us if you need any kind of information. We will be more than happy to help you.",
+        "schedule": "SCHEDULE",
+        "the_events_will_take_place": "The events will take place",
+        "ktima_dikaioulia": "Ktima Dikaioulia",
+        "address": "Kontratsi Zakinthou 61, Koropi 19400, Hellas",
+        "events": [
+             {
+                "time": "7:00 pm Reception",
+                "info": "Guest arrival\nRefreshments\n*Please note that there is free parking place in the venue."
+            },
+            {
+                "time": "7:30 pm Ceremony",
+                "info": "The I DO’S"
+            },
+            {
+                "time": "8:00 pm Mingling",
+                "info": "Welcome drinks & appetizers"
+            },
+            {
+                "time": "9:00 pm Celebration",
+                "info": "Food, glorious food!\nDrinks!\nParty time!"
+            }
+        ]
+    },
+    "photos": {
+        "intro_text": "Our love story began in Athens, back on Saturday 19th of May 2012.",
+        "story": [
+            "I came back from a trip to Norway and that night I was celebrating my birthday with my friends back in Greece.That was the night that the magic happpened.We met and everything else was just meant to be!",
+            "Days later, we had our first date and from then we were inseperable.We spent an amazing summer full of cocktails, great food, joy and laughter until I told him that initially I had decided to move to Norway… Alex said that he wanted to come as well! I thought he was joking… but fortunately he wasn’t!",
+            "8 memorable years later, on a trip to the north of Norway while chasing the northern lights( aurora ) he popped the question and I said YES!",
+            "28.12.2021 - Emily was born and now our little family is complete and filled with love!",
+            "20.05.23( 11 year anniversary ) - We are so excited to share our wedding day with you and look forward to dancing the night away with all of our favorite people.",
+            "Will you be there?"
+        ]
+    },
+    "contact": {
+        "contact": "CONTACT",
+        "contact_text": "We can't wait to celebrate with you. For any questions, or to give us a tip, be in touch!",
+        "contact_details": [
+            {
+                "name": "Alex",
+                "email": "Alex_liakos@hotmail.com",
+                "tel": "Viber/WhatsApp: 0047 91912227",
+                "facebook": "https://www.facebook.com/aliakos1",
+                "instagram": "https://www.instagram.com/alexlks9/"
+            },
+            {
+                "name": "Sofia",
+                "email": "Sofia_sel@hotmail.com",
+                "tel": "Viber: 004795170643",
+                "facebook": "https://www.facebook.com/sofia.sella.3",
+                "instagram": "https://www.instagram.com/sofia_sela/"
+            }
+        ]
+    },
+    "rsvp": {
+        "date": "Sat, May 20",
+        "ktima_dikaioulia": "Ktima Dikaioulia",
+        "names": "Alex & Sofia",
+         "please_confirm_your_attendance": "Please confirm your attendance",
+         "register_now": "Register Now",
+         "time_and_location": "Time & Location",
+         "full_date": "May 20, 2023, 7:00 PM",
+         "full_address": "Ktima Dikaioulia, Kontratsi Zakinthou 61, Koropi 19400, Hellas"
+    },
+    "dialog": {
+        "names": "Alex & Sofia",
+        "date": "May 20, 2023, 7:00 pm\nKtima Dikaioulia",
+        "add_your_details": "Add your details"
+    },
+    "form": {
+        "labels": {
+            "first_name": "First Name",
+            "last_name": "Last Name",
+            "mobile": "Mobile Number"
+        },
+        "errors": {
+            "name_errors": {
+                "name_is_required": "Name is required",
+                "provide_valid_name": "Please provide a valid name"
+            },
+            "mobile_errors": {
+                "number_is_required": "Number is required",
+                "provide_valid_number": "Please provide a valid number",
+                "provide_valid_country_code": "Provide a valid country code"
+            },
+            "email_errors": {
+                "email_is_required": "Email is required",
+                "provide_valid_email": "Please provide a valid email"
+            }
+        },
+        "tooltip": {
+            "pick_country_code": "Choose country code"
+        }
+    },
+    "not_found": {
+        "sorry_text": "Sorry, this page\n does not exist",
+        "go_to_home_page": "GO TO HOME PAGE"
+    },
+    "questions": {
+        "questions_text": "QUESTIONS? <0>CONTACT US</0> <1>•</1> SEE YOU THERE!"
+    }
+}
