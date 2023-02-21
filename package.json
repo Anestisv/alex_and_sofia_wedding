@@ -1,9 +1,9 @@
 {
-    "homepage": "http://Anestisv.github.io/alex_and_sofia_wedding",
-  "name": "alex_and_sofia_wedding",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
+    "homepage": ".",
+    "name": "alex_and_sofia_wedding",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
     "@mui/icons-material": "^5.11.9",
