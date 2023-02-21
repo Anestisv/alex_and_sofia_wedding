@@ -14,6 +14,7 @@ import Tooltip from '@mui/material/Tooltip';
 import { useTranslation } from 'react-i18next';
 import { commonColors } from '../assets/design/CommonColors';
 import styled from 'styled-components';
+import { allRoutes } from "../assets/routes";
 
 
 const LogoText = 'A • S'
@@ -58,7 +59,7 @@ const ResponsiveAppBar = () => {
                         variant="h5"
                         noWrap
                         component="a"
-                        href="/"
+                        href={allRoutes.home}
                         sx={{
                             mr: 2,
                             display: { xs: 'none', md: 'flex' },
@@ -113,7 +114,7 @@ const ResponsiveAppBar = () => {
                         variant="h5"
                         noWrap
                         component="a"
-                        href="/"
+                        href={allRoutes.home}
                         sx={{
                             mr: 2,
                             display: { xs: 'flex', md: 'none' },
