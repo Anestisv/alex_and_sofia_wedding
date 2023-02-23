@@ -8,8 +8,6 @@ import { allRoutes } from '../assets/routes';
 
 
 export const Questions = () => {
-
-    const { i18n } = useTranslation( ["translation"] );
     
     return (
         <Box textAlign="center" backgroundColor="#8EABA6" padding="1.5rem">
