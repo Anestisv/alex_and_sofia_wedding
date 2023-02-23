@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import { HashRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom'; //HashRouter instead of BrowserRouter in order to work in Github pages
 import { HomePage } from "./pages/HomePage";
 import { DetailsPage } from "./pages/DetailsPage";
 import { PhotosPage } from './pages/PhotosPage';

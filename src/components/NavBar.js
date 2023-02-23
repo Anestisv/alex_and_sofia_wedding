@@ -59,18 +59,9 @@ const ResponsiveAppBar = () => {
                         variant="h5"
                         noWrap
                         component="a"
-                        href={allRoutes.home}
-                        sx={{
-                            mr: 2,
-                            display: { xs: 'none', md: 'flex' },
-                            fontFamily: 'Noto-regular',
-                            fontWeight: '400',
-                            letterSpacing: '.3rem',
-                            color: commonColors.back_brown,
-                            textDecoration: 'none',
-                        }}
+                        sx={{ display: { xs: 'none', md: 'flex' } }}
                     >
-                        {LogoText}
+                        <LogoLink to={allRoutes.home} mr={2} fw={'400'}>{LogoText}</LogoLink>
                     </Typography>
 
                     <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>
@@ -114,20 +105,9 @@ const ResponsiveAppBar = () => {
                         variant="h5"
                         noWrap
                         component="a"
-                        href={allRoutes.home}
-                        sx={{
-                            mr: 2,
-                            display: { xs: 'flex', md: 'none' },
-                            flexGrow: 1,
-                            fontFamily: 'Noto-regular',
-                            fontWeight: 300,
-                            letterSpacing: '.3rem',
-                            color: commonColors.back_brown,
-                            textDecoration: 'none',
-                            marginRight: '0!mportant'
-                        }}
+                        sx={{ display: { xs: 'flex', md: 'none' }, flexGrow: 1, }}
                     >
-                        {LogoText}
+                        <LogoLink to={allRoutes.home} mr={'0!mportant'} fw={'300'}>{LogoText}</LogoLink>
                     </Typography>
                     <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex', }, justifyContent: 'flex-end', paddingRight: '2rem' }}>
                         {pages.map( ( page, index ) => (
@@ -174,6 +154,14 @@ const ResponsiveAppBar = () => {
     );
 };
 
+const LogoLink = styled(Link)((mr, fw) =>({
+    marginRight: mr,
+    fontFamily: 'Noto-regular',
+    fontWeight: fw,
+    letterSpacing: '.3rem',
+    color: commonColors.back_brown,
+    textDecoration: 'none',
+}))
 
 const NavLinkItem = styled(Link)({
     textDecoration: 'none',
